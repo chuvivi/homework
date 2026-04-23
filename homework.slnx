@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="homework/homework1奇偶數判斷 #1.csproj" />
+  <Project Path="homework2/homework2奇偶數判斷 #2.csproj" />
+  <Project Path="homework3/homework3迴圈倒置 #1.csproj" />
+  <Project Path="homework4/homework4迴圈倒置 #2.csproj" />
+  <Project Path="homework5/homework5閏年.csproj" />
+  <Project Path="homework6周六與周日-1/homework6周六與周日-1.csproj" />
+  <Project Path="homework7周六與周日-2/homework7周六與周日-2.csproj" />
+  <Project Path="homework8周六與周日-3/homework8周六與周日-3.csproj" />
+</Solution>
