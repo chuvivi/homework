@@ -8,11 +8,11 @@
             int input = int.Parse(Console.ReadLine());
             if ( input % 2 == 0)
             {
-                Console.WriteLine("數字為偶數");
+                Console.WriteLine("數字為 偶數");
             }
             else
             {
-                Console.WriteLine("數字為奇數");
+                Console.WriteLine("數字為 奇數");
             }
         }
     }
