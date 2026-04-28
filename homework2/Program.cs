@@ -8,10 +8,9 @@
             string input = Console.ReadLine();
             string[] num = input.Split(',');
 
-            // 建立一個放奇數的整數陣列
+            // 先建立一個放奇偶數的整數陣列
             // 長度先開成 parts.Length，確保一定放得下
             int[] oddNumbers = new int[num.Length];
-            // 建立一個放偶數的整數陣列
             int[] evenNumbers = new int[num.Length];
 
             // 記錄目前放了幾個奇數
@@ -90,7 +89,6 @@
                 }
             }
 
-            // 最後換行
             Console.WriteLine();
         }
     }
